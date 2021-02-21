@@ -1,6 +1,6 @@
 # Unico Mediatheke
 
-Die Mediatheke der Unico Schule https://www.unico-schule.ch/
+Die Mediatheke der [Unico Schule](https://www.unico-schule.ch/)
 
 
 
