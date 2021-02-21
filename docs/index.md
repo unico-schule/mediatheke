@@ -18,16 +18,18 @@ Mehr Filme: [Filmen](filme.md)
 
 ## Hörbücher
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/vCFdm1IKKQ0" allowfullscreen>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/vCFdm1IKKQ0" allowfullscreen>
 </iframe> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vCFdm1IKKQ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Musik
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/n6miFEXWDIw" allowfullscreen>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/n6miFEXWDIw" allowfullscreen>
 </iframe> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n6miFEXWDIw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Happy to hear from you..
 
