@@ -7,10 +7,12 @@ You can use the [editor on GitHub](https://github.com/unico-schule/mediatheke/ed
 # Filme
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
+src="https://www.youtube.com/embed/tgbNymZ7vqY" allowfullscreen>
 </iframe> 
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/l3t8Yb8Cebo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/l3t8Yb8Cebo" allowfullscreen>
+</iframe> 
 
 Direkt zu den [Filmen](filme.md) 
 
